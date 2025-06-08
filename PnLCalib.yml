@@ -233,4 +233,4 @@ dependencies:
       - opencv-python==4.10.0.84
       - scipy==1.13.1
       - wandb==0.17.2
-prefix: /mnt/g/wsl2/Ubuntu20/envs/PnLCalib
+prefix: /home/yin/anaconda3/envs/PnLCalib
