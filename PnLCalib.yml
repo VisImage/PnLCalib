@@ -232,4 +232,5 @@ dependencies:
       - lsq-ellipse==2.2.1
       - opencv-python==4.10.0.84
       - scipy==1.13.1
-prefix: /home/mgutierrez/anaconda3/envs/PnLCalib
+      - wandb==0.17.2
+prefix: /mnt/g/wsl2/Ubuntu20/envs/PnLCalib
